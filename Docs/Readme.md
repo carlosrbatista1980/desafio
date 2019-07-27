@@ -2,7 +2,7 @@
 
 De acordo com os requisitos da aplicação que foi sugerida no documento de nome “desafio.pdf” anexo ao projeto na pasta Docs fiz esta pequena aplicação somente com o que foi pedido mas, utilizando a arquitetura DDD (Domain Driven Design) de forma que alguns conceitos foram deixados de lado, isso significa que não estou utilizando o DDD em sua plenitude mas de uma forma leve também chamada de DDD-Lite.
 
-##### Configurando o ambiente
+#### Configurando o ambiente
 Instalar:
 - Visual Studio 2017 Community
 - SQL Server 2017 Express
@@ -22,9 +22,9 @@ Depois de instalar tudo e restaurar as dependencias vá no Package Manager Conso
 update-database
 ```
 isso irá criar o banco de dados (não esqueça de alterar o ConnectionString no arquivo "appsettings.json" caso necessite)
-##### Serviços
+#### Serviços
 Foi utilizada a ferramenta [GetPostman] para testar todas as requisições.
-##### Patrimonio
+#### Patrimonio
 Endpoints:
 ```sh
 GET: 'api/patrimonios'  => Consultar todos os patrimônios cadastrados
@@ -37,7 +37,7 @@ Regras de Validação:
 1. 'O numero do tombo é gerado automaticamente'
 2. 'Não permitir alteração do Numero do Tombo'
 ```
-##### Marca
+#### Marca
 Endpoints:
 ```sh
 GET: 'api/marcas' => Obter todas as marcas
@@ -50,7 +50,7 @@ DELETE: 'api/marcas/{id}' => Excluir uma marca
 Regras de validação:
 1. 'Não permitir nome duplicado'
 ```
-##### Usuarios
+#### Usuarios
 Endpoints:
 ```sh
 GET: 'api/usuarios' => Listar os usuários
