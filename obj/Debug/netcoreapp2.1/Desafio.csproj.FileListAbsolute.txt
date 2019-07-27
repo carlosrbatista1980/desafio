@@ -1,0 +1,14 @@
+C:\Users\Max\source\repos\Desafio\bin\Debug\netcoreapp2.1\Desafio.deps.json
+C:\Users\Max\source\repos\Desafio\bin\Debug\netcoreapp2.1\Desafio.runtimeconfig.json
+C:\Users\Max\source\repos\Desafio\bin\Debug\netcoreapp2.1\Desafio.runtimeconfig.dev.json
+C:\Users\Max\source\repos\Desafio\bin\Debug\netcoreapp2.1\Desafio.dll
+C:\Users\Max\source\repos\Desafio\obj\Debug\netcoreapp2.1\Desafio.csprojAssemblyReference.cache
+C:\Users\Max\source\repos\Desafio\obj\Debug\netcoreapp2.1\Desafio.csproj.CoreCompileInputs.cache
+C:\Users\Max\source\repos\Desafio\obj\Debug\netcoreapp2.1\Desafio.RazorAssemblyInfo.cache
+C:\Users\Max\source\repos\Desafio\obj\Debug\netcoreapp2.1\Desafio.RazorAssemblyInfo.cs
+C:\Users\Max\source\repos\Desafio\obj\Debug\netcoreapp2.1\Desafio.AssemblyInfoInputs.cache
+C:\Users\Max\source\repos\Desafio\obj\Debug\netcoreapp2.1\Desafio.AssemblyInfo.cs
+C:\Users\Max\source\repos\Desafio\obj\Debug\netcoreapp2.1\Desafio.RazorTargetAssemblyInfo.cache
+C:\Users\Max\source\repos\Desafio\bin\Debug\netcoreapp2.1\Desafio.pdb
+C:\Users\Max\source\repos\Desafio\obj\Debug\netcoreapp2.1\Desafio.dll
+C:\Users\Max\source\repos\Desafio\obj\Debug\netcoreapp2.1\Desafio.pdb
